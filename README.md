@@ -1,6 +1,7 @@
-# Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
-Name: Piritharaman
-Ref no: 23013537
+Name:Piritharaman R
+Ref no:23013537
+
+# Study of basic digital IC s and verification of truth tables for different logic gates realization:
  AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
@@ -77,6 +78,8 @@ RTL realization:
 ![image](https://github.com/ramanpiritha/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147084116/ecbf33c6-f8e1-4825-a6a7-d573140d29ba)
 Truthtable:
 ![image](https://github.com/ramanpiritha/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147084116/5e3b951e-dd58-450c-8627-4af8dcf26a65)
+Timing line:
+![image](https://github.com/ramanpiritha/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147084116/5715d4f0-962a-40e8-a162-57606e151a80)
 
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
